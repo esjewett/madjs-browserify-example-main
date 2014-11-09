@@ -22,6 +22,6 @@
     "vinyl-source-stream": "^1.0.0"
   },
   "dependencies": {
-    "madjs-browserify-example-dependency": "esjewett/madjs-browserify-example-dependency"
+    "madjs-browserify-example-dependency": "esjewett/madjs-browserify-example-dependency#with-dependency"
   }
 }
