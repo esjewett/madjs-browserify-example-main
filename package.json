@@ -20,5 +20,8 @@
     "browserify": "^6.2.0",
     "gulp": "^3.8.10",
     "vinyl-source-stream": "^1.0.0"
+  },
+  "dependencies": {
+    "madjs-browserify-example-dependency": "esjewett/madjs-browserify-example-dependency"
   }
 }
