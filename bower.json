@@ -1,0 +1,20 @@
+{
+  "name": "madjs-browserify-example-main",
+  "main": "example.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/esjewett/madjs-browserify-example-main",
+  "authors": [
+    "Ethan Jewett <esjewett@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "madjs-browserify-example-dependency": "esjewett/madjs-browserify-example-dependency#two-builds"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
